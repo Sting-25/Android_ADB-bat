@@ -2,3 +2,7 @@
 基于ADB
 可以直接运行的 不用敲命令的脚本
 写这个因为懒得敲命令
+
+
+基于ADB↓
+https://developer.android.google.cn/tools/releases/platform-tools?hl=zh-cn
